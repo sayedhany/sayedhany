@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello There 🙋‍♀️, I'm NOURHAN ATEF 💖</h1>
+<h1 align="center">Hello There 🙋‍♀️, I'm SAYED HANY 💖</h1>
 <h3 align="center"> I am a recent graduate of the Faculty of Computer Science 💪😴</h3>
-<h3 align="center">A passionate Frontend Developer, Designer and Freelancer from Egypt 👨‍💻 working remotely 🚀</h3>
+<h3 align="center">A passionate Frontend Developer from Egypt 👨‍💻</h3>
 
 <div align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="200" />
