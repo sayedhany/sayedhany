@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - SCSS - TAILWIND CSS**
+- 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - SCSS - TAILWIND CSS - C - PYTHON - ANGULAR**
 
 - 📫 How to reach me **sayedhany975@gmail.com**
 
