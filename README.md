@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello There 🙋‍♀️, I'm SAYED HANY 💖</h1>
-<h3 align="center"> I am a recent graduate of the Faculty of Computer Science and alx africa intern 💪😴</h3>
+<h3 align="center"> I am a recent graduate of the Faculty of Computer Science and ALX Africa intern 💪😴</h3>
 <h3 align="center">A passionate Software Engineer from Egypt and could work at place👨‍💻</h3>
 
 <div align="center">
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" height="200" width="200" />
 </div>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** and **Angular**
 
 - 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - SCSS - TAILWIND CSS - C - PYTHON - ANGULAR**
 
